@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Hiro!
 
+<div align="center">
+  <img src="https://pokereadme.murilonoguez.com.br/api?user=YourUsername&pokes=1,4,7,25,133,132" />
+</div>
+
 💻 **Aspiring Software Engineer from Italy** :)  
 📖 Currently studying Computer Science at **University of Salerno (UniSA)**.  
 🚀 Constantly exploring new technologies and expanding my skill set.
